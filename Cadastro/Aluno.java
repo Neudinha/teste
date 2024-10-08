@@ -1,1 +1,5 @@
-class Aluno {}
+class Aluno {
+
+private String nome;
+
+}
